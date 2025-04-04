@@ -5,6 +5,8 @@ None of your work will be used by Bookboost, the goal of this exercise is to sho
 
 For this take home exercise, you will be working on a critical problem for our customer-facing analytics capability - **currency conversion**. The data pipeline you build should reliably calculate the net revenue figures for each reservation in the property's local currency as well as the property group's base currency. The property group's base currency reflects the currency in which the head office of a hotel group reports on their revenue data.
 
+For the sake of clarity, a property represents an individual hotel and a property group represents a hotel group which owns one or more individual hotels.
+
 ## Data
 In this repository, you will find an excerpt of example data from our Customer Data Platform. 
 
